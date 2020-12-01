@@ -5,7 +5,9 @@ import Colors from '../constants/Colors'
 import { CATEGORIES } from '../data/dummy-data'
 import CategoryGridTile from '../components/CategoryGridTile'
 
-
+/*
+    Pantalla: Lista de categorias
+*/
 
 const CategoriesScreen = (props) => {
 
